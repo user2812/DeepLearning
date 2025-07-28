@@ -5,5 +5,4 @@ pillow==9.5.0
 protobuf>=3.20,<5
 torch==2.0.1
 torchvision==0.15.2
-
-
+rich>=10.14.0
